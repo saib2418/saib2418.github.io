@@ -25,11 +25,10 @@ body{
    margin:0 auto;
    padding:3rem 2rem;
 }
-.img-container{
-   display:flex;
-   aspect-ratio: 3/2;
-   object-fit: contain;
-   margin-top: 100px;
+.about-me img{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
 }
 .about-me h1{
    font-size: 3.4em;
